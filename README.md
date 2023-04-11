@@ -6,6 +6,12 @@ License: MIT
 
 Donations: amlug.eth 
 
+## Run it
+
+1. Fill in the blanks in `.env.sample` and rename to `.env`
+2. Run: `node trade.js`
+
 ## Questions or Problems?
 
 I'm using this myself, so if you have anything open an issue please so I can potentially help. :) 
+
